@@ -2,13 +2,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/RonBless)
 
-💻 Software Engineer at a confidential company 
+💻 Software Engineer at IAI - Israel Aerospace Industries
 
 📙 B.Sc Software Engineering at Afeka Academic College of Engineering
 
 
 ## Main Technologies & Languages
-<img src="https://img.shields.io/badge/javascript-323330?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python-14354C?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)"/> <img src="https://img.shields.io/badge/python-14354C?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c/c++-00599C?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
 <img src="https://img.shields.io/badge/java-ED8B00?&style=for-the-badge&logo=java&logoColor=white"/> 
 
@@ -25,14 +25,13 @@
 <img src="https://img.shields.io/badge/-github-121011?&style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-firebase-039BE5?&style=for-the-badge&logo=firebase"/> 
 <img src="https://img.shields.io/badge/-docker-0db7ed?&style=for-the-badge&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birkagal&theme=dark&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonBless&theme=dark&layout=compact" align="center" />
 ## Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail] [<img src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin] 
-[<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][stackoverflow]
 
 
-[gmail]: mailto:birkagal@gmail.com
-[linkedin]: https://www.linkedin.com/in/gal-birka-13474b198/
-[stackoverflow]: https://stackoverflow.com/users/10540279/birkagal
+[gmail]: mailto:ronberaha14@gmail.com
+[linkedin]: https://www.linkedin.com/in/ron-beraha-9454741bb/
