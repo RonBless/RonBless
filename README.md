@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/RonBless)
 
-💻 Software Engineer at IAI - Israel Aerospace Industries
+💻 Full Stack Software Engineer at IAI - Israel Aerospace Industries
 
 📙 B.Sc Software Engineering at Afeka Academic College of Engineering
 
