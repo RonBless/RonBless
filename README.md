@@ -29,8 +29,7 @@
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonBless&theme=dark&layout=compact" align="center" />
+
 ## Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail] [<img src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin] 
 
