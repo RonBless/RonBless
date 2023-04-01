@@ -1,18 +1,22 @@
-### Hi there 👋
 
+### Hey there 👋
 ![Profile views](https://gpvc.arturio.dev/RonBless)
+
+## About me
 
 💻 Full Stack Software Engineer at IAI - Israel Aerospace Industries
 
 🎓 B.Sc Software Engineering at Afeka Academic College of Engineering
  
+ ## Projects
+📁 Make sure to check my personal projects here on GitHub, I pinned the most interesting ones for your convenience
 
 ## Languages
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/c/c++-00599C?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
 <img src="https://img.shields.io/badge/java-ED8B00?&style=for-the-badge&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/c/c++-00599C?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
 
 ---
 
@@ -54,3 +58,4 @@
 
 [gmail]: mailto:ronberaha14@gmail.com
 [linkedin]: https://www.linkedin.com/in/ron-beraha-9454741bb/
+
