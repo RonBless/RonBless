@@ -19,7 +19,8 @@
 
 ---
 
-### Frameworks, Platforms and Libraries
+### Frameworks, Platforms, and Libraries
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff"/> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/-Spring-1FFF4F?style=for-the-badge&logo=spring&logoColor=white"/>
