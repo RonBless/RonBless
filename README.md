@@ -1,6 +1,5 @@
 
 ### Hey there 👋
-![Profile views](https://gpvc.arturio.dev/RonBless)
 
 ## About me
 
