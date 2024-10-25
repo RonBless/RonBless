@@ -3,7 +3,7 @@
 
 ## About me
 
-💻 Full Stack Software Engineer at IAI - Israel Aerospace Industries
+💻 Game Developer at MoonActive
 
 🎓 B.Sc Software Engineering at Afeka Academic College of Engineering
  
